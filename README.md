@@ -13,7 +13,7 @@ Professors who accepted to instruct us in this course and project are:
 Special Thanks for their guidance and patience
 
 
-My temmate: Ahmad Yazdani([@ahmadyazdani78](https://github.com/Ahmadyazdani78))
+My teammate: Ahmad Yazdani([@ahmadyazdani78](https://github.com/Ahmadyazdani78))
 
 The datasets we are working on them are:
 
