@@ -1,4 +1,4 @@
-# Hyperparameter-Optimizatio
+# Hyperparameter Optimization
 
 This is a Repository for hyperparameter Optimization project.
 
@@ -15,6 +15,7 @@ Special Thanks for their guidance and patience
 
 My temmate: Ahmad Yazdani([@ahmadyazdani78](https://github.com/Ahmadyazdani78))
 
+The datasets we are working on them are:
 
 <center> 
   
