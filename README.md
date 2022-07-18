@@ -18,7 +18,7 @@ My temmate: Ahmad Yazdani([@ahmadyazdani78](https://github.com/Ahmadyazdani78))
 
 <center> 
   
-|   |  Dataset |    Task Type   | Compunds |      Category     |
-|---|:--------:|:--------------:|:--------:|:-----------------:|
-| 1 |   Bace   | Classification |   1513   |     biophysics    |
-| 2 |   lipo   | Regression     |   4200   | Physical chemistry|
+|   |     Dataset     |    Task Type   | Compunds |      Category     |
+|---|:---------------:|:--------------:|:--------:|:-----------------:|
+| 1 |      Bace       | Classification |   1513   |     biophysics    |
+| 2 |  Lipophilicity  | Regression     |   4200   | Physical chemistry|
